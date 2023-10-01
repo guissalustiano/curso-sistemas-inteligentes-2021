@@ -1,30 +1,3 @@
-Programação
------------
-
-### [Informações](https://cursosextensao.usp.br/course/view.php?id=2152#section-1)
-
-*   [Ementa URL](https://docs.google.com/document/d/185TWye_hRS5_N2kAlzVndMZAWCVv5a6IlyzXfsmstM0/edit?usp=sharing)
-    
-*   [Slides Aulas URL](https://drive.google.com/drive/folders/1nxfKCHPIqvzEin3jOdtX5Q98dS41kdc2?usp=sharing)
-    
-*   [Gravações Aulas URL](https://drive.google.com/drive/folders/10SPFnSljCb9A1hmLtYnZHHx0D33rNy_p?usp=sharing)
-    
-*   [Apresentações Projetos URL](https://drive.google.com/drive/folders/1i2en4hEQHTEp-T1sg1z5lrHZJoacMVQd?usp=sharing)
-    
-*   [Grupo do Telegram dos Alunos URL](https://t.me/joinchat/G8mrwnxDBaeHU8Rj)
-    
-    Grupo do Telegram para dúvidas e formação de grupos  
-    
-*   [Foto da Turma (26/02) Arquivo](https://cursosextensao.usp.br/mod/resource/view.php?id=128181)
-    
-
-### [Pesquisa](https://cursosextensao.usp.br/course/view.php?id=2152#section-2)
-
-*   [Formulário Background URL](https://docs.google.com/forms/d/e/1FAIpQLSfa5cXHqQlNQdSReGOS157RvFohD4Mjvy8FiKVfzpEStsrVlw/viewform?usp=send_form)
-    
-*   [Formulário Pré-Entrevistas URL](https://docs.google.com/forms/d/e/1FAIpQLSdDQKaViM0PIVBBhqwjQeYIF59RwCOKQUmbLuVXc16h1XGIdQ/viewform?usp=send_form)
-    
-
 ### [\[S1\]\[2ª\] Aula 01 - Desenvolvimento de Sistemas Inteligentes \[2021-01-18\]](https://cursosextensao.usp.br/course/view.php?id=2152#section-4)
 
 *   [🎬 Gravação Aula 01 URL](https://drive.google.com/file/d/1N1wCS8c-JFuNaItnto05tjtOR3R2jfW1/view?usp=sharing)
