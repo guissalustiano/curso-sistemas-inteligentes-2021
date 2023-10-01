@@ -12,26 +12,25 @@
         
     4.  Warm-up
         
+*   📋 Para próxima aula
     
-*   [Para próxima aula 📋 Pasta](https://cursosextensao.usp.br/mod/folder/view.php?id=121661)
+    *   [📺 Kurzgesagt – What Is Intelligence? Where Does it Begin? \[🔈🇺🇸,💬🇧🇷\] URL](https://www.youtube.com/watch?v=ck4RGeoHFko&feature=youtu.be)
+        
+    *   [📺 Kurzgesagt – Emergence - How Stupid Things Become Smart Together \[🔈🇺🇸,💬🇧🇷\] URL](https://www.youtube.com/watch?v=16W7c0mb-rE&feature=youtu.be)
+        
+    *   [🕹 AIDungeon URL](https://aidungeon.io)
     
-*   [📺 Kurzgesagt – What Is Intelligence? Where Does it Begin? \[🔈🇺🇸,💬🇧🇷\] URL](https://www.youtube.com/watch?v=ck4RGeoHFko&feature=youtu.be)
+*   🔎 Para explorar mais
     
-*   [📺 Kurzgesagt – Emergence - How Stupid Things Become Smart Together \[🔈🇺🇸,💬🇧🇷\] URL](https://www.youtube.com/watch?v=16W7c0mb-rE&feature=youtu.be)
-    
-*   [🕹 AIDungeon URL](https://aidungeon.io)
-    
-*   [Para explorar mais 🔎 Pasta](https://cursosextensao.usp.br/mod/folder/view.php?id=121652)
-    
-*   [🎓 Frontiers in Artificial Intelligence – Artificial Intelligence: A Clarification of Misconceptions, Myths and Desired Status \[📄🇺🇸\] URL](https://www.frontiersin.org/articles/10.3389/frai.2020.524339/full)
-    
-*   [🎓 IEEE Systems Journal – System Definition, System Worldviews, and Systemness Characteristics \[📄🇺🇸\] URL](https://ieeexplore.ieee.org/document/8693820/)
-    
-*   [🌐 Wait But Why – Artificial Intelligent Revolution - Part 1 \[📄🇺🇸\] URL](https://cursosextensao.usp.br/mod/url/view.php?id=121650)
-    
-*   [🌐 Wait But Why – Chapter 2: A Game of Giants \[📄🇺🇸\] URL](https://cursosextensao.usp.br/mod/url/view.php?id=121651)
-    
-*   [🌐 AI Dungeon - Wikipedia \[📄🇺🇸\] URL](https://en.wikipedia.org/wiki/AI_Dungeon)
+    *   [🎓 Frontiers in Artificial Intelligence – Artificial Intelligence: A Clarification of Misconceptions, Myths and Desired Status \[📄🇺🇸\] URL](https://www.frontiersin.org/articles/10.3389/frai.2020.524339/full)
+        
+    *   [🎓 IEEE Systems Journal – System Definition, System Worldviews, and Systemness Characteristics \[📄🇺🇸\] URL](https://ieeexplore.ieee.org/document/8693820/)
+        
+    *   [🌐 Wait But Why – Artificial Intelligent Revolution - Part 1 \[📄🇺🇸\] URL](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+        
+    *   [🌐 Wait But Why – Chapter 2: A Game of Giants \[📄🇺🇸\] URL](https://waitbutwhy.com/2019/08/giants.html)
+        
+    *   [🌐 AI Dungeon - Wikipedia \[📄🇺🇸\] URL](https://en.wikipedia.org/wiki/AI_Dungeon)
     
 
 ### [\[S1\]\[4ª\] Aula 02 - Introdução aos Sistemas Inteligentes \[2021-01-20\]](https://cursosextensao.usp.br/course/view.php?id=2152#section-5)
@@ -48,19 +47,19 @@
     3.  Criando um Sistema Inteligente no Mundo Real
         
     
-*   [Pessoas para seguir 👥 Pasta](https://cursosextensao.usp.br/mod/folder/view.php?id=123870)
+*   👥 Pessoas para
     
-*   [🐦 Geoff Hulten URL](https://twitter.com/geoffHulten)
+    *   [🐦 Geoff Hulten URL](https://twitter.com/geoffHulten)
     
-*   [Para explorar mais 🔎 Pasta](https://cursosextensao.usp.br/mod/folder/view.php?id=122161)
+*   🔎 Para explorar mais
     
-*   [📚 Building Intelligent Systems: A Guide to Machine Learning Engineering (Geoff Hulten) \[📄🇺🇸\] URL](https://www.goodreads.com/book/show/37490386-building-intelligent-systems)
-    
-*   [📚 Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (Valliappa Lakshmanan, Sara Robinson, Michael Munn) \[📄🇺🇸\] URL](https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns)
-    
-*   [📺 H.I.D.R.A.: A Hierarchical, Interactive and Dynamic Recognition Architecture for Product Categorization \[🔈🇧🇷,📄🇺🇸\] URL](https://www.youtube.com/watch?v=SXtN4Fbsu74&feature=youtu.be)
-    
-*   [🎓 H.I.D.R.A.: A Hierarchical, Interactive and Dynamic Recognition Architecture for Product Categorization \[📄🇺🇸\] URL](https://drive.google.com/file/d/1eSbf3OfxxTnm5Dq9zYvo1Z8fjV67S5g5/view?usp=sharing)
+    *   [📚 Building Intelligent Systems: A Guide to Machine Learning Engineering (Geoff Hulten) \[📄🇺🇸\] URL](https://www.goodreads.com/book/show/37490386-building-intelligent-systems)
+        
+    *   [📚 Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (Valliappa Lakshmanan, Sara Robinson, Michael Munn) \[📄🇺🇸\] URL](https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns)
+        
+    *   [📺 H.I.D.R.A.: A Hierarchical, Interactive and Dynamic Recognition Architecture for Product Categorization \[🔈🇧🇷,📄🇺🇸\] URL](https://www.youtube.com/watch?v=SXtN4Fbsu74&feature=youtu.be)
+        
+    *   [🎓 H.I.D.R.A.: A Hierarchical, Interactive and Dynamic Recognition Architecture for Product Categorization \[📄🇺🇸\] URL](https://drive.google.com/file/d/1eSbf3OfxxTnm5Dq9zYvo1Z8fjV67S5g5/view?usp=sharing)
     
 
 ### [\[S1\]\[6ª\] Aula 03 - Pipeline de Ciência de Dados \[2021-01-22\]](https://cursosextensao.usp.br/course/view.php?id=2152#section-6)
@@ -80,33 +79,33 @@
     5.  Engenharia de Software na Pipeline
         
     
-*   [Para explorar mais 🔎 Pasta](https://cursosextensao.usp.br/mod/folder/view.php?id=122209)
+*   🔎 Para explorar mais
     
-*   [🎓 Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning \[📄🇺🇸\] URL](https://arxiv.org/abs/1811.12808)
+    *   [🎓 Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning \[📄🇺🇸\] URL](https://arxiv.org/abs/1811.12808)
+        
+    *   [📚 Python Machine Learning (Sebastian Raschka) \[📄🇺🇸\] URL](https://www.goodreads.com/book/show/25545994-python-machine-learning)
+        
+    *   [📚 Learning from Data: A Short Course (Yaser Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin) \[📄🇺🇸\] URL](https://www.goodreads.com/book/show/15706459-learning-from-data)
+        
+    *   [📺 Machine Learning Course \[🔈🇺🇸,📄🇧🇷\] URL](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
+        
+    *   [🌐 Supervised Learning - Wikipedia \[📄🇺🇸\] URL](https://en.wikipedia.org/wiki/Supervised_learning)
+        
+    *   [🌐 Unsupervised Learning - Wikipedia \[📄🇺🇸\] URL](https://en.wikipedia.org/wiki/Unsupervised_learning)
+        
+    *   [🌐 Reinforcement Learning - Wikipedia \[📄🇺🇸\] URL](https://en.wikipedia.org/wiki/Reinforcement_learning)
     
-*   [📚 Python Machine Learning (Sebastian Raschka) \[📄🇺🇸\] URL](https://www.goodreads.com/book/show/25545994-python-machine-learning)
+*   🧰 Ferramentas úteis
     
-*   [📚 Learning from Data: A Short Course (Yaser Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin) \[📄🇺🇸\] URL](https://www.goodreads.com/book/show/15706459-learning-from-data)
-    
-*   [📺 Machine Learning Course \[🔈🇺🇸,📄🇧🇷\] URL](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
-    
-*   [🌐 Supervised Learning - Wikipedia \[📄🇺🇸\] URL](https://en.wikipedia.org/wiki/Supervised_learning)
-    
-*   [🌐 Unsupervised Learning - Wikipedia \[📄🇺🇸\] URL](https://en.wikipedia.org/wiki/Unsupervised_learning)
-    
-*   [🌐 Reinforcement Learning - Wikipedia \[📄🇺🇸\] URL](https://en.wikipedia.org/wiki/Reinforcement_learning)
-    
-*   [Ferramentas úteis 🧰 Pasta](https://cursosextensao.usp.br/mod/folder/view.php?id=123872)
-    
-*   [🛠 Jupyter (Interactive Computing) URL](https://cursosextensao.usp.br/mod/url/view.php?id=123875)
-    
-*   [🛠 NumPy (Data Computation Library) URL](https://cursosextensao.usp.br/mod/url/view.php?id=123874)
-    
-*   [🛠 Pandas (Data Manipulation Library) URL](https://cursosextensao.usp.br/mod/url/view.php?id=123873)
-    
-*   [🛠 Matplotlib (Data Visualization Library) URL](https://cursosextensao.usp.br/mod/url/view.php?id=123877)
-    
-*   [🛠 Scikit Learn (Machine Learning Library) URL](https://cursosextensao.usp.br/mod/url/view.php?id=123876)
+    *   [🛠 Jupyter (Interactive Computing) URL](https://jupyter.org/)
+        
+    *   [🛠 NumPy (Data Computation Library) URL](https://numpy.org)
+        
+    *   [🛠 Pandas (Data Manipulation Library) URL](https://pandas.pydata.org)
+        
+    *   [🛠 Matplotlib (Data Visualization Library) URL](https://matplotlib.org)
+        
+    *   [🛠 Scikit Learn (Machine Learning Library) URL](https://scikit-learn.org)
     
 
 ### [\[S2\]\[4ª\] Aula 04 - Agilidade para Aprendizado de Máquina \[2021-01-27\]](https://cursosextensao.usp.br/course/view.php?id=2152#section-8)
@@ -128,31 +127,31 @@
     6.  Adaptando Métodos Ágeis
         
     
-*   [Pessoas para seguir 👥 Pasta](https://cursosextensao.usp.br/mod/folder/view.php?id=123866)
+*   Pessoas para seguir
     
-*   [🐦 Kent Back URL](https://twitter.com/KentBeck)
+    *   [🐦 Kent Back URL](https://twitter.com/KentBeck)
+        
+    *   [🐦 Robert C. Martin (Uncle Bob) URL](https://twitter.com/unclebobmartin)
+        
+    *   [🐦 Jeff Sutherland URL](https://twitter.com/jeffsutherland)
+        
+    *   [🐦 Ken Schwaber URL](https://twitter.com/kschwaber)
+        
+    *   [🐦 Eric Ries URL](https://twitter.com/ericries)
+        
+*   🔎 Para explorar mais
     
-*   [🐦 Robert C. Martin (Uncle Bob) URL](https://twitter.com/unclebobmartin)
-    
-*   [🐦 Jeff Sutherland URL](https://twitter.com/jeffsutherland)
-    
-*   [🐦 Ken Schwaber URL](https://twitter.com/kschwaber)
-    
-*   [🐦 Eric Ries URL](https://twitter.com/ericries)
-    
-*   [Para explorar mais 🔎 Pasta](https://cursosextensao.usp.br/mod/folder/view.php?id=122456)
-    
-*   [🌐 Manifesto Ágil \[📄🇧🇷|📄🇺🇸\] URL](https://cursosextensao.usp.br/mod/url/view.php?id=122457)
-    
-*   [📚 Extreme Programming Explained: Embrace Change (Kent Beck, Cynthia Andres) \[📄🇺🇸\] URL](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained)
-    
-*   [📚 The Scrum Guide - The Definitive Guide to Scrum: The Rules of the Game (Ken Schwaber, Jeff Sutherland) \[📄🇺🇸\] URL](https://www.goodreads.com/book/show/12731973-scrum-guide)
-    
-*   [📚 Kanban: Successful Evolutionary Change for Your Technology Business (David Anderson) \[📄🇺🇸\] URL](https://www.goodreads.com/book/show/8086552-kanban)
-    
-*   [📚 The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses (Eric Ries) \[📄🇺🇸\] URL](https://www.goodreads.com/book/show/10127019-the-lean-startup)
-    
-*   [📚 Clean Agile: Back to Basics (Robert C. Martin aka Uncle Bob) \[📄🇺🇸\] URL](https://www.goodreads.com/book/show/45280021-clean-agile)
+    *   [🌐 Manifesto Ágil \[📄🇧🇷|📄🇺🇸\] URL](https://agilemanifesto.org/iso/ptbr/manifesto.html)
+        
+    *   [📚 Extreme Programming Explained: Embrace Change (Kent Beck, Cynthia Andres) \[📄🇺🇸\] URL](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained)
+        
+    *   [📚 The Scrum Guide - The Definitive Guide to Scrum: The Rules of the Game (Ken Schwaber, Jeff Sutherland) \[📄🇺🇸\] URL](https://www.goodreads.com/book/show/12731973-scrum-guide)
+        
+    *   [📚 Kanban: Successful Evolutionary Change for Your Technology Business (David Anderson) \[📄🇺🇸\] URL](https://www.goodreads.com/book/show/8086552-kanban)
+        
+    *   [📚 The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses (Eric Ries) \[📄🇺🇸\] URL](https://www.goodreads.com/book/show/10127019-the-lean-startup)
+        
+    *   [📚 Clean Agile: Back to Basics (Robert C. Martin aka Uncle Bob) \[📄🇺🇸\] URL](https://www.goodreads.com/book/show/45280021-clean-agile)
     
 
 *   Tópico atual
